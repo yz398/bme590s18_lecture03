@@ -9,7 +9,7 @@ in-class demo of git usage
 
 ### Pull Requests 
 
-### Your Mission
+### Mission #1
 For everything below, `$netid` refers to your Duke Net ID (e.g., `mlp6`), not your GitHub username.
 * Fork this repository: https://github.com/mlp6/bme590s18_lecture03
 * Clone your forked repository to your local computer
@@ -26,3 +26,12 @@ Your Teamname should:
   + Use CamelCase
 * Push your working branch to your GitHub fork
 * Using GitHub, submit a Pull Request to merge your branch on your forked repository back into `mlp6/bme590s18_lecture03`
+
+# Mission #2
+* Python code to concatenate all of the user data
+* Write CSV / JSON
+
+# Mission #3
+* Represent data as dictionary
+* Represent data as Class/Objects
+* Store data in database (MongoDB / SQL)
